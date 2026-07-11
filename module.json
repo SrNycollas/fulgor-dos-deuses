@@ -1,0 +1,39 @@
+{
+  "id": "fulgor-dos-deuses-t20",
+  "title": "Fulgor dos Deuses (Teste)",
+  "description": "Aventura Fulgor dos Deuses para Tormenta20.",
+  "version": "0.0.1",
+  "authors": [
+    {
+      "name": "SrNycollas"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "tormenta20",
+        "type": "system",
+        "compatibility": {
+          "verified": "1.5.013"
+        }
+      }
+    ]
+  },
+  "packs": [
+    {
+      "name": "fulgor-dos-deuses",
+      "label": "Fulgor dos Deuses",
+      "type": "Adventure",
+      "path": "packs/fulgor-dos-deuses",
+      "system": "tormenta20",
+      "locked": true
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/SrNycollas/fulgor-dos-deuses/main/module.json",
+  "download": "https://github.com/SrNycollas/fulgor-dos-deuses/archive/refs/heads/main.zip"
+}
