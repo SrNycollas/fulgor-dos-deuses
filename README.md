@@ -45,6 +45,17 @@ Todo o conteúdo foi organizado pensando em agilizar a preparação do mestre du
 
 ---
 
+# Aventuras Disponíveis
+
+Atualmente este módulo contém as seguintes aventuras oficiais de **Fulgor dos Deuses**:
+
+- ✅ Aventura 7
+- ✅ Aventura 8
+
+O projeto está em desenvolvimento contínuo e novas aventuras poderão ser adicionadas em futuras atualizações.
+
+---
+
 # Requisitos
 
 - Foundry Virtual Tabletop v13
